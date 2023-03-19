@@ -104,6 +104,11 @@ if (x > 5 || y > 10) {
 8. Mini Project
 
 - Midi Piano
+A MIDI piano is a musical instrument that allows users to play notes and chords by pressing keys on a keyboard. In a web application, you can implement a MIDI piano using the Web MIDI API, which allows web pages to access MIDI devices connected to the user's computer.
+
 - Quiz App
+A quiz app is a web application that allows users to answer multiplate-choice or open-ended questions and receive a score or feedback based on their answers. You can implement a quiz app using JavaScript to dynamically generate questions and options, track user responses, and calculate the score.
+
 - Form Validation
+Form validation is the process of ensuring that the data entered by the user is a web form is accurate, complete, and meets the required criteria.
 */

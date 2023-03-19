@@ -68,7 +68,7 @@ const age = sessionStorage.getItem("age");
 /* ----------------------------------------------------
 5. Mini Project
 
-- Advanced Todo List:
+- Advanced Todo List
 An advanced todo list is a mroe feature-rich version of a simple todo list, with additional features like filtering, sorting, and editing.
 
 - Expand Collapse
